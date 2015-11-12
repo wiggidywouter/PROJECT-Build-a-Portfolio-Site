@@ -30,7 +30,7 @@ Here's what you should do:
 
 This is the rubric that would be used to evaluate your project if you were enrolled in the Front-End Web Developer Nanodegree. Under those circumstances, all criteria must "meet specifications" in order to pass.
 
-![]('http://i.imgur.com/MaI3QL0.png')
+![](http://i.imgur.com/MaI3QL0.png)
 
 ##Style Guidelines
 **CSS REQUIRED Rules**
