@@ -2,7 +2,7 @@
 
 ##Build a Portfolio and the Front-End Web Developer Nanodegree
 
-This project is part of the [Front-End Web Developer Nanodegree]('https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001') portfolio. We're including it here so you can complete it independently, for free. The project instructions and rubric you'll get are identical to what Nanodegree students get.
+This project is part of the [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) portfolio. We're including it here so you can complete it independently, for free. The project instructions and rubric you'll get are identical to what Nanodegree students get.
 
 The difference is, you're likely taking this course on your own and aren't getting dedicated support. Of course, that means you will not submit your project to us for evaluation or earn a Nanodegree certificate.
 
