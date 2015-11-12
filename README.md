@@ -80,3 +80,9 @@ This is the rubric that would be used to evaluate your project if you were enrol
 - HTML - Use double rather than single quotation marks for attribute values. (See: HTML-HTML Quotation Marks.)
 
 
+##Instructor Notes
+
+- [Udacity HTML/CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
+- [HTML Validator](http://validator.w3.org/#validate_by_input)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
